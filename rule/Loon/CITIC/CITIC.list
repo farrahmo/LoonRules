@@ -1,0 +1,11 @@
+# NAME: CITIC
+# AUTHOR: YourName
+# DESCRIPTION: 中信银行 分流规则
+# UPDATED: 2026-07-12
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citic.com
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,citiccard.com
+DOMAIN-SUFFIX,imcs.citicbank.com
+DOMAIN-KEYWORD,citicbank
+DOMAIN-KEYWORD,citic
