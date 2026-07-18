@@ -2,8 +2,7 @@
 # AUTHOR: YourName
 # DESCRIPTION: 兴业银行 分流规则
 # UPDATED: 2026-07-12
-DOMAIN-SUFFIX,cib.com.cn
-DOMAIN-SUFFIX,cibfintech.com
-DOMAIN-SUFFIX,exc.cib.com.cn
-DOMAIN-SUFFIX,ib.cib.com.cn
-DOMAIN-KEYWORD,cib
+DOMAIN-SUFFIX,cib.com.cn,DIRECT
+DOMAIN-SUFFIX,cibfintech.com,DIRECT
+DOMAIN-SUFFIX,exc.cib.com.cn,DIRECT
+DOMAIN-SUFFIX,ib.cib.com.cn,DIRECT
