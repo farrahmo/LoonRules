@@ -2,9 +2,9 @@
 # DESCRIPTION: iFAST 分流规则
 # UPDATED: 2026-08-05
 # DOMAIN-SUFFIX: 3
-# DOMAIN-KEYWORD: 1
-# TOTAL: 4
-DOMAIN-SUFFIX,ifastgb.com
-DOMAIN-SUFFIX,ifastfinancial.com
-DOMAIN-SUFFIX,ifastcorp.com
-DOMAIN-KEYWORD,ifast
+# TOTAL: 5
+DOMAIN-SUFFIX,ifast.com
+DOMAIN-SUFFIX,ifastgm.com.sg
+DOMAIN-SUFFIX,ifastgp.com
+DOMAIN-SUFFIX,ifastglobal.com
+DOMAIN-SUFFIX,ifastcdn.com
