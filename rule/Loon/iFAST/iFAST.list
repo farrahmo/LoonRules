@@ -1,0 +1,10 @@
+# NAME: iFAST
+# DESCRIPTION: iFAST 分流规则（直连）
+# UPDATED: 2026-08-05
+# DOMAIN-SUFFIX: 3
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifastfinancial.com
+DOMAIN-SUFFIX,ifastcorp.com
+DOMAIN-KEYWORD,ifast
