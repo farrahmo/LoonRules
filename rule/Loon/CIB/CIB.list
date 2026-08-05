@@ -1,5 +1,5 @@
 # NAME: CIB
-# DESCRIPTION: 兴业银行 分流规则
+# DESCRIPTION: 兴业银行分流规则
 # UPDATED: 2026-07-12
 DOMAIN-SUFFIX,cib.com.cn,DIRECT
 DOMAIN-SUFFIX,cibfintech.com,DIRECT
