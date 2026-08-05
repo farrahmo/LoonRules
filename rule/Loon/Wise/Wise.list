@@ -1,0 +1,9 @@
+# NAME: Wise
+# DESCRIPTION: Wise 分流规则
+# UPDATED: 2026-08-05
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,prd-wise.com
+DOMAIN-SUFFIX,wise.cdn
