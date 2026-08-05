@@ -1,5 +1,5 @@
 # NAME: CITIC
-# DESCRIPTION: 中信银行 分流规则
+# DESCRIPTION: 中信银行分流规则
 # UPDATED: 2026-07-12
 DOMAIN-SUFFIX,citicbank.com,DIRECT
 DOMAIN-SUFFIX,citic.com,DIRECT
