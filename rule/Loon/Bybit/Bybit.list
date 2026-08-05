@@ -1,0 +1,33 @@
+# NAME: Bybit
+# DESCRIPTION: Bybit 分流规则
+# UPDATED: 2026-08-05
+# DOMAIN-SUFFIX: 28
+# DOMAIN: 2
+# TOTAL: 30
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit.kz
+DOMAIN-SUFFIX,bybit.nl
+DOMAIN-SUFFIX,bybit-tr.com
+DOMAIN-SUFFIX,bybit.ae
+DOMAIN-SUFFIX,bybitgeorgia.ge
+DOMAIN-SUFFIX,byhkbit.com
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.tr
+DOMAIN-SUFFIX,bybit.id
+DOMAIN-SUFFIX,bitverse.zone
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
