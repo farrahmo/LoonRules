@@ -1,0 +1,15 @@
+# NAME: OKX
+# DESCRIPTION: OKX（欧易）分流规则
+# UPDATED: 2026-08-07
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.ac
+DOMAIN-SUFFIX,xlayer.tech
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
