@@ -1,0 +1,10 @@
+# NAME: Kraken
+# DESCRIPTION: Kraken + Kraken Pro 分流规则
+# UPDATED: 2026-08-07
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,pro.kraken.com
+DOMAIN-SUFFIX,proapp.kraken.com
+DOMAIN-SUFFIX,app.kraken.com
+DOMAIN-SUFFIX,kraken.onl
