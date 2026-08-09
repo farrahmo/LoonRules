@@ -1,0 +1,7 @@
+# NAME: Starryblu
+# DESCRIPTION: Starryblu 分流规则
+# UPDATED: 2026-08-09
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,starryblu.com
+DOMAIN-SUFFIX,blog.starryblu.com
