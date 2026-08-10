@@ -1,0 +1,91 @@
+# =========================================================
+# Hong Kong Banks & Payment — Mainland DIRECT Enhanced
+# =========================================================
+# 汇丰香港 (HSBC Hong Kong)
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
+DOMAIN,rbwm-api.hsbc.com.hk,DIRECT
+DOMAIN,wsit-api.hsbc.com.hk,DIRECT
+DOMAIN,cdn.hsbc.com.hk,DIRECT
+DOMAIN,m.mobilex-static.hsbc.com.hk,DIRECT
+DOMAIN,mauth-hk.hsbc.com.hk,DIRECT
+DOMAIN,online-banking.business.hsbc.com.hk,DIRECT
+DOMAIN,servicing.hsbc.com.hk,DIRECT
+DOMAIN,redirect.hsbc.com.hk,DIRECT
+DOMAIN-SUFFIX,hsbcnet.com,DIRECT
+
+# 中银香港 (BOCHK / 中国银行香港)
+DOMAIN-SUFFIX,bochk.com,DIRECT
+DOMAIN,api.bochk.com,DIRECT
+DOMAIN,mobile.bochk.com,DIRECT
+DOMAIN,online.bochk.com,DIRECT
+
+# 蚂蚁银行 (Ant Bank Hong Kong)
+DOMAIN-SUFFIX,antbank.hk,DIRECT
+DOMAIN,developer.antbank.hk,DIRECT
+DOMAIN-SUFFIX,antgroup.com,DIRECT
+DOMAIN-SUFFIX,antfin.com,DIRECT
+
+# AlipayHK
+DOMAIN-SUFFIX,alipayhk.com,DIRECT
+DOMAIN-SUFFIX,alipay.hk,DIRECT
+DOMAIN,www.alipay.hk,DIRECT
+DOMAIN,docs.alipay.hk,DIRECT
+DOMAIN,imgs.alipay.hk,DIRECT
+DOMAIN,imobileweb.alipay.hk,DIRECT
+DOMAIN,render.alipay.hk,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+
+# ZA Bank (众安银行)
+DOMAIN-SUFFIX,za.group,DIRECT
+DOMAIN-SUFFIX,bank.za.group,DIRECT
+DOMAIN,cdn.za.group,DIRECT
+DOMAIN,developer.bank.za.group,DIRECT
+DOMAIN,apisandbox.bank.za.group,DIRECT
+
+# 象象银行（原天星银行 / Airstar Bank → EleBank）
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,elebank.com
+
+# livi Bank (理慧银行)
+DOMAIN-SUFFIX,livibank.com,DIRECT
+DOMAIN,developer.livibank.com,DIRECT
+DOMAIN,cdn.livibank.com,DIRECT
+DOMAIN,api.livibank.com,DIRECT
+DOMAIN,app.livibank.com,DIRECT
+DOMAIN,livibank.app.link,DIRECT
+
+# WeLab Bank (汇立银行)
+DOMAIN-SUFFIX,welab.bank,DIRECT
+DOMAIN-SUFFIX,welab.com,DIRECT
+DOMAIN,welab.app.link,DIRECT
+
+# 恒生香港 (Hang Seng Bank)
+DOMAIN-SUFFIX,hangseng.com,DIRECT
+DOMAIN-SUFFIX,hase.com,DIRECT
+DOMAIN,developer.hangseng.com,DIRECT
+DOMAIN,develop.hangseng.com,DIRECT
+DOMAIN,secure.sandbox.ob.hangseng.com,DIRECT
+
+# 建行（港澳）/ 中国建设银行（亚洲）
+DOMAIN-SUFFIX,asia.ccb.com,DIRECT
+DOMAIN-SUFFIX,ccb.com.hk,DIRECT
+DOMAIN-SUFFIX,ccba.com.hk,DIRECT
+DOMAIN,online.asia.ccb.com,DIRECT
+DOMAIN,mobile.asia.ccb.com,DIRECT
+DOMAIN,m.asia.ccb.com,DIRECT
+DOMAIN,mo.ccb.com,DIRECT
+DOMAIN-SUFFIX,ccb.com,DIRECT
+
+# 工银亚洲 (ICBC Asia / 中国工商银行亚洲)
+DOMAIN-SUFFIX,icbcasia.com,DIRECT
+DOMAIN,openapi.icbcasia.com,DIRECT
+DOMAIN,api.icbcasia.com,DIRECT
+DOMAIN,mobile.icbcasia.com,DIRECT
+DOMAIN,online.icbcasia.com,DIRECT
+
+# 招商永隆银行 (CMB Wing Lung Bank)
+DOMAIN-SUFFIX,cmbwinglungbank.com,DIRECT
+DOMAIN-SUFFIX,wlb.com.hk,DIRECT
+DOMAIN,ac.cmbwinglungbank.com,DIRECT
+DOMAIN,push.cmbwinglungbank.com,DIRECT
