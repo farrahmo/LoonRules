@@ -1,6 +1,6 @@
 # NAME: Outlook
 # DESCRIPTION: Outlook 分流规则
-# UPDATED: 2026-08-22
+# UPDATED: 2026-08-21
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
 DOMAIN-SUFFIX,outlook.com
