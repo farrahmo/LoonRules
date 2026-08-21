@@ -1,6 +1,6 @@
 # NAME: Proton
 # DESCRIPTION: Proton Mail & Proton Apps 分流规则
-# UPDATED: 2026-08-22
+# UPDATED: 2026-08-21
 
 # Proton 主域名 & 邮箱域名
 DOMAIN-SUFFIX,proton.me
