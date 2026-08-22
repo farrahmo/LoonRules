@@ -1,0 +1,17 @@
+# NAME: Bitget
+# DESCRIPTION: Bitget 分流规则
+# UPDATED: 2026-08-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.site
+DOMAIN-SUFFIX,bitget.io
+DOMAIN-SUFFIX,bgbstatic.com
+DOMAIN-SUFFIX,bgstatic.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,btsgtm.com
+DOMAIN-SUFFIX,bkcode.vip
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-SUFFIX,bitkeep.vip
+DOMAIN-SUFFIX,gurenla.com
+DOMAIN-SUFFIX,bitgetapps.com
