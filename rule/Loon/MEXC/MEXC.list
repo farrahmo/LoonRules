@@ -1,0 +1,19 @@
+# NAME: MEXC
+# DESCRIPTION: MEXC 分流规则
+# UPDATED: 2026-08-28
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.fm
+DOMAIN-SUFFIX,mexc.io
+DOMAIN-SUFFIX,support.mexc.com
+DOMAIN-SUFFIX,blog.mexc.com
+DOMAIN-SUFFIX,m.mexc.com
+DOMAIN-SUFFIX,otc.mexc.com
+DOMAIN-SUFFIX,static.mocortech.com
+DOMAIN-SUFFIX,public.mocortech.com
+DOMAIN-SUFFIX,download.mocortech.com
+DOMAIN-SUFFIX,mexc.link
+DOMAIN-SUFFIX,mexc.cg
+DOMAIN-SUFFIX,mexc.ci
