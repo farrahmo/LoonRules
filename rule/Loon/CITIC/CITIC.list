@@ -3,8 +3,8 @@
 # UPDATED: 2026-07-12
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
-DOMAIN-SUFFIX,citicbank.com,DIRECT
-DOMAIN-SUFFIX,citic.com,DIRECT
-DOMAIN-SUFFIX,ecitic.com,DIRECT
-DOMAIN-SUFFIX,citiccard.com,DIRECT
-DOMAIN-SUFFIX,imcs.citicbank.com,DIRECT
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citic.com
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,citiccard.com
+DOMAIN-SUFFIX,imcs.citicbank.com
