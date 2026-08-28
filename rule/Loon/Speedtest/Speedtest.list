@@ -1,0 +1,12 @@
+# NAME: Speedtest 分流规则
+# DESCRIPTION: Speedtest
+# UPDATED: 2026-08-28
+
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*
