@@ -2,8 +2,8 @@
 # DESCRIPTION: Claude / Anthropic 分流规则（覆盖 Web / App / API / Claude Code / Artifacts / MCP 等）
 # UPDATED: 2026-09-09
 # DOMAIN-SUFFIX: 18
-# DOMAIN: 12
-# TOTAL: 30
+# DOMAIN: 9
+# TOTAL: 27
 
 # ========== 核心官方域名 ==========
 DOMAIN-SUFFIX,anthropic.com
