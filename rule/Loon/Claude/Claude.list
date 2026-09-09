@@ -1,43 +1,27 @@
 # NAME: Claude
-# DESCRIPTION: Claude / Anthropic 分流规则（覆盖 Web / App / API / Claude Code / Artifacts / MCP 等）
-# UPDATED: 2026-09-09
-# DOMAIN-SUFFIX: 18
-# DOMAIN: 9
-# TOTAL: 27
-
-# ========== 核心官方域名 ==========
+# DESCRIPTION: Anthropic Claude / Claude.ai / Claude Code / API 分流规则
+# UPDATED: 2026-09-02
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com.cn
+DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,clau.de
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,claudemcpclient.com
-DOMAIN-SUFFIX,claudemcpcontent.com
-
-# ========== 其他 Claude 相关品牌/产品域名 ==========
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.new
 DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudepages.dev
 DOMAIN-SUFFIX,claudestudio.com
-DOMAIN-SUFFIX,modelcontextprotocol.io
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,modelcontextprotocol.com
-DOMAIN-SUFFIX,modelcontextprotocol.org
+DOMAIN-SUFFIX,modelcontextprotocol.io
 DOMAIN-SUFFIX,modelcontextprotocol.net
-
-# ========== 特定 CDN / 静态资源 / 下载 ==========
-DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,anthropic.com.cdn.cloudflare.net
-DOMAIN,cdn.usefathom.com
-DOMAIN,cdn.growthbook.io
-DOMAIN,storage.googleapis.com
-DOMAIN,downloads.claude.ai
-
-# ========== 认证 / 第三方嵌入服务 ==========
-DOMAIN,anthropic.auth0.com
-DOMAIN,anthropic-com.ghost.io
-DOMAIN,browser-intake-us5-datadoghq.com
-
-# ========== 客服 / 支持组件（可选，建议保留） ==========
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,modelcontextprotocol.org
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,chatbotclaude.com
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,statsigapi.net
