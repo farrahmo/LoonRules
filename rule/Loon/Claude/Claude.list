@@ -42,7 +42,7 @@ DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic-com.ghost.io
 DOMAIN,browser-intake-us5-datadoghq.com
 
-# ========== 客服/支持组件/ 其他相关域名 ==========
+# ========== 客服/支持组件/其他相关域名 ==========
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
